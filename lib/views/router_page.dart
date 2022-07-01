@@ -35,12 +35,6 @@ class RouterPage extends StatelessWidget {
               Navigator.pushNamed(context, AppRouter.foodAppScreen);
             },
           ),
-          DarkPinkWhiteTextElevatedButton(
-            text: "Push Food App2",
-            onPressed: () {
-              Navigator.pushNamed(context, AppRouter.foodAppScreen2);
-            },
-          )
         ],
       ),
     );

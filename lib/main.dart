@@ -1,5 +1,3 @@
-import 'dart:math';
-
 import 'package:assignment3_uidesign/res/colors.dart';
 import 'package:assignment3_uidesign/utils/app_router.dart';
 import 'package:assignment3_uidesign/views/food_app/food_app_home.dart';
